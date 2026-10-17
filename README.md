@@ -1,5 +1,6 @@
 # Luxury Watch Scroll Site
-
+Pricing value creator
+<img width="449" height="354" alt="image" src="https://github.com/user-attachments/assets/27ba6d32-813c-4ff0-bf2a-c36ecbe39db6" />
 > A premium luxury watch experience focused on immersive scrolling, refined motion, and editorial-inspired frontend design.
 
 ## Overview
