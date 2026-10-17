@@ -1,6 +1,7 @@
 import CanvasSequence from "./components/CanvasSequence";
 import ClosingCTA from "./components/ClosingCTA";
 import FeaturesSection from "./components/FeaturesSection";
+import ProductPricing from "./components/ProductPricing";
 import SpecsSection from "./components/SpecsSection";
 
 export default function HomePage() {
@@ -20,6 +21,7 @@ export default function HomePage() {
       </CanvasSequence>
       <FeaturesSection />
       <SpecsSection />
+      <ProductPricing />
       <ClosingCTA />
     </main>
   );
