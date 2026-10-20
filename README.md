@@ -106,3 +106,8 @@ This project is suitable as a showcase of expertise in **premium frontend develo
 ## Topics
 
 `typescript` `css` `frontend` `creative-development` `luxury-website` `watch-website` `responsive-design` `ui-design` `web-animation` `scroll-animation` `product-showcase` `interactive-website`
+# Pricing Market Detailed TTH BLUEPRINTED OWNER 
+## **Recommendation:** Use the Luxury Signature Experience package — $1,199 USD / 30,000,000 VND — as the central reference price on the website. Publish these packages as official commercial offerings only after the service scope and implementation costs have been confirmed.
+<img width="1000" height="843" alt="image" src="https://github.com/user-attachments/assets/c897f863-ebbc-49f5-a9cc-715c530d0f39" />
+<img width="1034" height="833" alt="image" src="https://github.com/user-attachments/assets/5e1d8910-5d37-43a3-aeb7-ce83c887aaf3" />
+
