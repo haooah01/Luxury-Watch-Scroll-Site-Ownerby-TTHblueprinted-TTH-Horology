@@ -9,6 +9,23 @@ Pricing value creator
 
 Built with **TypeScript** and **CSS**, the project combines responsive frontend engineering with a premium visual language inspired by modern luxury fashion and watch brands.
 
+## Định giá sản phẩm
+
+> Đây là định giá tham khảo cho website trải nghiệm đồng hồ cao cấp, không phải giá của chiếc đồng hồ vật lý.  
+> This is reference pricing for a luxury watch experience website service, not the price of a physical watch.
+
+### Phiên bản quốc tế · International
+
+- **Giá đề xuất · Recommended:** **$1,199 USD**
+- **Source code only:** $799
+- **Custom branding:** $1,999–$2,499
+
+### Phiên bản Việt Nam · Vietnam
+
+- **Giá đề xuất · Recommended:** **30.000.000 VNĐ**
+- **Bàn giao mã nguồn:** 20.000.000 VNĐ
+- **Tùy chỉnh theo thương hiệu:** 50.000.000–65.000.000 VNĐ
+
 ## Premium Description Variations
 
 ### Editorial Luxury
